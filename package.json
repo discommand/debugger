@@ -1,0 +1,15 @@
+{
+  "name": "discommand-debugger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "discommand": "^5.0.0-alpha.3",
+    "discord.js": "^13.1.0",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "tsc": "^2.0.4",
+    "typescript": "^4.5.5"
+  }
+}
