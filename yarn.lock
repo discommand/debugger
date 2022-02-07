@@ -122,10 +122,10 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
-discommand@^5.0.0-beta.0:
-  version "5.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/discommand/-/discommand-5.0.0-beta.0.tgz#14c490f2f3407269d9dc93882959d74cdbca332c"
-  integrity sha512-9iiffL8QrsFjltYA6nibsuclUGECNXXvFJ3sWaeGPI1tTZshqg5v35tX02q9w5QZBSJTmwjPMDoX+GwRNZaYYg==
+discommand@^5.0.0-beta.1:
+  version "5.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/discommand/-/discommand-5.0.0-beta.1.tgz#ed8a17dd1369e96f37827375eba9ea9787c78bcc"
+  integrity sha512-j+BTG3fDjzg0VH9NosCzTbPIIclDdcxnVJk2Ss08RmicpEts949kLRd7Hyaa89Oj7AAIt0ABdr6cWXC90/ltiQ==
 
 discord-api-types@^0.26.0:
   version "0.26.1"
